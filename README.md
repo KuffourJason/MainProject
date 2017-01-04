@@ -35,7 +35,7 @@ The last stage was implemented in Java and is mainly responsible for updating th
 <a name="headers"/>
 ## Needed Libraries
 * Bluepy library (Python)
-* Cloundant library (Java)
+* Cloudant library (Java)
 
 <a name="headers"/>
 ## Further Notes
